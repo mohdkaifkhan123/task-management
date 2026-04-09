@@ -11,7 +11,12 @@ This application lets users create, edit, delete, search, filter, and track task
 - Inline task actions for mark complete/pending, edit, and delete
 
 **Screenshots**
+<img width="1511" height="761" alt="image" src="https://github.com/user-attachments/assets/40e8e178-b5da-4495-9f05-0b5cb1517a11" />
+<img width="1534" height="906" alt="modal" src="https://github.com/user-attachments/assets/f411eec5-09c5-4fab-abe7-e1475292b392" />
 <img width="1770" height="898" alt="Taskadded" src="https://github.com/user-attachments/assets/64f7cbe7-50a9-433f-b4ba-fcd1c9f77c82" />
+<img width="1611" height="720" alt="image" src="https://github.com/user-attachments/assets/ef1df5c4-74db-423f-9b94-990147f88f5a" />
+<img width="664" height="823" alt="image" src="https://github.com/user-attachments/assets/2094c4b3-9b0b-4b0a-a31b-faaf59b8c51f" />
+
 
 - Persistent task storage using `localStorage`
 - Search by task title or description
