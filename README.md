@@ -2,6 +2,9 @@
 
 A clean React-based task management dashboard built with Vite.
 
+## Vercel Deployment Link
+https://task-management-orpin-beta.vercel.app/
+
 ## Overview
 
 This application lets users create, edit, delete, search, filter, and track task status. It supports:
