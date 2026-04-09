@@ -9,11 +9,16 @@ This application lets users create, edit, delete, search, filter, and track task
 - Task creation with title, description, priority, and due date
 - List and card views
 - Inline task actions for mark complete/pending, edit, and delete
+
+**Screenshots**
+<img width="1770" height="898" alt="Taskadded" src="https://github.com/user-attachments/assets/64f7cbe7-50a9-433f-b4ba-fcd1c9f77c82" />
+
 - Persistent task storage using `localStorage`
 - Search by task title or description
 - Filters for status and priority
 - Drag-and-drop reordering of tasks
 - Smooth UI animations and micro-interactions
+
 
 
 1. **Dashboard overview** — shows the task summary counts, search and filter controls, view toggle, and initial empty state.
