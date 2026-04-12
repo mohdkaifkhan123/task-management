@@ -34,7 +34,6 @@ This application lets users create, edit, delete, search, filter, and track task
 3. **Task list view** — example tasks displayed in list mode, with pending/completed badge states.
 4. **Search and status update** — filtered task list after search and completion actions.
 
-> If you are using the attached screenshot files, refer to them as screenshot 1, 2, 3, and 4 for the views above.
 
 ## Project Structure
 
